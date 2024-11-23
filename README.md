@@ -129,6 +129,12 @@ Bu çalışma, Steam'deki oyunların popülerlik, fiyatlandırma, değerlendirme
 
 ---
 
+## Projenin Kaggle Linki
+
+https://www.kaggle.com/code/oruntrkokulolu/steam-video-oyunu-analizleri
+
+---
+
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını kontrol edebilirsiniz.
